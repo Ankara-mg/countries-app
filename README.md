@@ -11,6 +11,10 @@ This project contains both the frontend and backend components for a simple web 
 ```bash
 git clone https://github.com/Ankara-mg/countries-app.git
 ```
+2. Move to the root folder.
+```bash
+cd countries-app
+```
 
 ### Install the Backend
 
