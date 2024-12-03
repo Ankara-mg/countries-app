@@ -9,7 +9,7 @@ This project contains both the frontend and backend components for a simple web 
 1. Clone the repository.
 
 ```bash
-   git clone https://github.com/Ankara-mg/countries-info-app.git
+git clone https://github.com/Ankara-mg/countries-app.git
 ```
 
 ### Install the Backend
